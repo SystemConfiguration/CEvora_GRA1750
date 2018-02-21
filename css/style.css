@@ -1,0 +1,65 @@
+body { padding: 0;
+margin: 0;
+ background-color: #000000;
+ }
+
+.mother{
+	width: 100%;
+	height: 200px;
+	background-color: #696969;
+	border: 1px solid white;
+
+}
+
+
+a{
+ color: #ffffff;
+
+
+
+}
+.mother p a{
+
+
+}
+
+#child01 a{
+	
+	font-size: 16pt;
+}
+
+
+#child01 a:hover{
+	color: #000000;
+}
+
+#child01 a:visited{
+color: #ffffff
+}
+
+#child01 a:link{
+color: #000000
+}
+
+.mother a{ color: red;
+font-size: 48px;
+
+}
+
+
+img
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
